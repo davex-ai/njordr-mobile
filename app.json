@@ -3,6 +3,11 @@
     "name": "Njörðr",
     "slug": "njordr",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "84e0b715-460f-403c-b806-037db67c3717"
+      }
+    },    
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "njordr",
