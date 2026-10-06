@@ -1,5 +1,4 @@
 name: Create Production Builds
-  run: eas build --platform android --profile preview --non-interactive
 
 jobs:
   build_android:
